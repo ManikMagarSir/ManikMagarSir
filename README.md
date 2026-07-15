@@ -46,7 +46,6 @@ I'm passionate about building reliable infrastructure, automating workflows, sec
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ManikMagarSir&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170" src="https://streak-stats.demolab.com?user=ManikMagarSir&theme=tokyonight&hide_border=true"/>
 </p>
 
