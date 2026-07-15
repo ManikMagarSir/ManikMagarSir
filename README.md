@@ -1,128 +1,63 @@
 <div align="center">
 
-# MANIK MAGAR
+<img src="https://github.com/ManikMagarSir.png" width="160" style="border-radius:50%;" />
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ███╗   ███╗ █████╗ ███╗   ██╗██╗██╗  ██╗                         ║
-║   ████╗ ████║██╔══██╗████╗  ██║██║██║ ██╔╝                         ║
-║   ██╔████╔██║███████║██╔██╗ ██║██║█████╔╝                          ║
-║   ██║╚██╔╝██║██╔══██║██║╚██╗██║██║██╔═██╗                          ║
-║   ██║ ╚═╝ ██║██║  ██║██║ ╚████║██║██║  ██╗                         ║
-║   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝                         ║
-║                                                                  ║
-║               Network Administrator • Cybersecurity              ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+# Manik Magar
 
-<img src="./assets/profile.png" width="180" style="border-radius:50%;">
+### Network Administrator • Cybersecurity Student • Open Source Builder
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+Secure+Infrastructure;Linux+%7C+Networking+%7C+Cybersecurity;MERN+Stack+Developer;Always+Learning+Something+New" />
 
 </div>
 
 ---
 
-## 💼 Digital Business Card
+## 🚀 About Me
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  👤 Name      : Manik Magar                                │
-│  💼 Position  : Network Administrator                      │
-│  🎓 Focus     : Cybersecurity | Networking | Linux         │
-│  🌍 Country   : Nepal                                      │
-│                                                             │
-│  ⚡ Interests                                      ONLINE   │
-│  ────────────────────────────────────────────────────────   │
-│  ▸ Network Security                                        │
-│  ▸ Cloud & Virtualization                                  │
-│  ▸ Web Development                                         │
-│  ▸ Automation                                               │
-│  ▸ Open Source                                              │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+I'm passionate about building reliable infrastructure, automating workflows, securing systems, and developing modern web applications.
+
+- 🔒 Cybersecurity
+- 🌐 Networking
+- 🐧 Linux & Servers
+- ☁️ Virtualization
+- ⚡ MERN Stack
 
 ---
 
-## ⚡ Tech Arsenal
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│ Operating Systems                                          │
-│  Windows  ███████████████████████████                      │
-│  Ubuntu   █████████████████████████                        │
-│                                                            │
-│ Languages                                                  │
-│  JavaScript ████████████████                               │
-│  Python     ██████████████                                 │
-│  PHP        ███████████                                    │
-│                                                            │
-│ Backend                                                    │
-│  Node.js  • Express • MySQL • MongoDB                      │
-│                                                            │
-│ Networking                                                 │
-│  Cisco • Linux • Proxmox • VMware • Docker                │
-╰────────────────────────────────────────────────────────────╯
-```
-
----
-
-## 🛠 Current Stack
-
-```text
-        Internet
-            │
-            ▼
-      ┌───────────────┐
-      │ Ubuntu Server │
-      └──────┬────────┘
-             │
- ┌───────────┼────────────┐
- ▼           ▼            ▼
- Node.js   Docker      Proxmox
-     │
-     ▼
- React + Express + MongoDB
-```
-
----
-
-## 📈 GitHub
+## 🧰 Tech Stack
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,nodejs,react,express,mongodb,js,python,php,mysql,vscode,bash" />
+</p>
 
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🎬 OpenMontage | AI-powered video generation |
+| 🏨 Hostel Management | Full-stack hostel ERP |
+| 🌦 Weather App | PHP + MySQL |
+| 🎥 Movie Database | MERN + API |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ManikMagarSir&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ManikMagarSir&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://streak-stats.demolab.com?user=ManikMagarSir&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManikMagarSir&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
----
-
-## 🎯 Motto
-
-```text
-while(alive){
-    Learn();
-    Build();
-    Break();
-    Secure();
-    Repeat();
-}
-```
 
 ---
-
 <div align="center">
 
-### "Turning coffee into secure infrastructure."
+> **"Build. Secure. Automate. Repeat."**
 
 </div>
